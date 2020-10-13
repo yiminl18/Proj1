@@ -1,0 +1,10 @@
+prefix=/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug
+exec_prefix=/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/bin
+libdir=/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/lib
+includedir=/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include
+
+Name: libglog
+Description: Google Log (glog) C++ logging framework
+Version: 0.4.0
+Libs: -L${libdir} -lglog
+Cflags: -I${includedir}

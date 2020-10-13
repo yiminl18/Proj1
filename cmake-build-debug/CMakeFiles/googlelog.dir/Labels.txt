@@ -1,0 +1,13 @@
+# Target labels
+ googlelog
+# Source files and their labels
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/CMakeFiles/googlelog
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/CMakeFiles/googlelog.rule
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/CMakeFiles/googlelog-complete.rule
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-install.rule
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-mkdir.rule
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-download.rule
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-update.rule
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-patch.rule
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-configure.rule
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-build.rule

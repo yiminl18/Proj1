@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/pfm.h
+string
+-
+iostream
+-
+fstream
+-
+stdio.h
+-
+
+/Users/delilah/CLionProjects/PeterDB-template/src/pfm/pfm.cc
+src/include/pfm.h
+/Users/delilah/CLionProjects/PeterDB-template/src/pfm/src/include/pfm.h
+iostream
+-
+fstream
+-
+stdio.h
+-
+string.h
+-
+

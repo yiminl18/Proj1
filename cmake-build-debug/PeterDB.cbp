@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PeterDB"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\googletest-prefix\;CMake Files\cmake-build-debug\googletest-prefix\tmp\;CMake Files\cmake-build-debug\googlelog-prefix\;CMake Files\cmake-build-debug\googlelog-prefix\tmp\;CMake Files\src\;CMake Files\src\pfm\;CMake Files\src\rbfm\;CMake Files\test\;CMake Files\test\pfm\;CMake Files\test\rbfm\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="googlelog">
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 googlelog"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="googletest">
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 googletest"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pfm">
+				<Option output="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/libpfm.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDEBUG=1"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/Makefile&quot;  VERBOSE=1 pfm"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pfm/fast">
+				<Option output="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/libpfm.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDEBUG=1"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/Makefile&quot;  VERBOSE=1 pfm/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/pfm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rbfm">
+				<Option output="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/librbfm.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDEBUG=1"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/Makefile&quot;  VERBOSE=1 rbfm"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rbfm/fast">
+				<Option output="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/librbfm.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDEBUG=1"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/Makefile&quot;  VERBOSE=1 rbfm/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/src/rbfm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pfmtest_public">
+				<Option output="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/pfmtest_public" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDEBUG=1"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/Makefile&quot;  VERBOSE=1 pfmtest_public"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pfmtest_public/fast">
+				<Option output="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/pfmtest_public" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDEBUG=1"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/Makefile&quot;  VERBOSE=1 pfmtest_public/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rbfmtest_public">
+				<Option output="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/rbfmtest_public" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDEBUG=1"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/rbfm/Makefile&quot;  VERBOSE=1 rbfmtest_public"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/rbfm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/rbfm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/rbfm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rbfmtest_public/fast">
+				<Option output="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/rbfmtest_public" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DDEBUG=1"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include"/>
+					<Add directory="/Users/delilah/CLionProjects/PeterDB-template"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/rbfm/Makefile&quot;  VERBOSE=1 rbfmtest_public/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/rbfm/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/rbfm/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/rbfm/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/src/pfm/pfm.cc">
+			<Option target="pfm"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/src/rbfm/rbfm.cc">
+			<Option target="rbfm"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/test/pfm/pfmtest_public.cc">
+			<Option target="pfmtest_public"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/test/rbfm/rbfmtest_public.cc">
+			<Option target="rbfmtest_public"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googletest-prefix/tmp/googletest-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\googletest-prefix\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/tmp/googlelog-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\googlelog-prefix\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/src/pfm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\pfm\"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/src/rbfm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\rbfm\"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/test/pfm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\pfm\"/>
+		</Unit>
+		<Unit filename="/Users/delilah/CLionProjects/PeterDB-template/test/rbfm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\rbfm\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,12 @@
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/lib/libglog.a
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include/glog/logging.h
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include/glog/raw_logging.h
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include/glog/stl_logging.h
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include/glog/vlog_is_on.h
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/include/glog/log_severity.h
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/lib/pkgconfig/libglog.pc
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/lib/cmake/glog/glog-modules.cmake
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/lib/cmake/glog/glog-config.cmake
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/lib/cmake/glog/glog-config-version.cmake
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/lib/cmake/glog/glog-targets.cmake
+/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/lib/cmake/glog/glog-targets-noconfig.cmake

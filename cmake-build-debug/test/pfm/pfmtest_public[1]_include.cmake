@@ -1,0 +1,5 @@
+if(EXISTS "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/pfmtest_public[1]_tests.cmake")
+  include("/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/test/pfm/pfmtest_public[1]_tests.cmake")
+else()
+  add_test(pfmtest_public_NOT_BUILT pfmtest_public_NOT_BUILT)
+endif()

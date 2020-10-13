@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/include/pfm.h
+string
+-
+
+../src/include/rbfm.h
+vector
+-
+pfm.h
+../src/include/pfm.h
+
+/Users/delilah/CLionProjects/PeterDB-template/src/rbfm/rbfm.cc
+src/include/rbfm.h
+/Users/delilah/CLionProjects/PeterDB-template/src/rbfm/src/include/rbfm.h
+

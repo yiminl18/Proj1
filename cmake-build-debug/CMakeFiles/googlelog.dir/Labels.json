@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/CMakeFiles/googlelog"
+		},
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/CMakeFiles/googlelog.rule"
+		},
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/CMakeFiles/googlelog-complete.rule"
+		},
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-install.rule"
+		},
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-mkdir.rule"
+		},
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-download.rule"
+		},
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-update.rule"
+		},
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-patch.rule"
+		},
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-configure.rule"
+		},
+		{
+			"file" : "/Users/delilah/CLionProjects/PeterDB-template/cmake-build-debug/googlelog-prefix/src/googlelog-stamp/googlelog-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googlelog"
+		],
+		"name" : "googlelog"
+	}
+}
